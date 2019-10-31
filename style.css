@@ -1,0 +1,10 @@
+:required
+ {
+    border-color: red;
+ }
+ span
+ {
+     display: inline-block;
+     width: 200px;
+ }
+ 
